@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-auth-updated.iml" filepath="$PROJECT_DIR$/springboot-auth-updated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-auth-updated_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-auth-updated_main.iml" group="springboot-auth-updated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-auth-updated_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-auth-updated_test.iml" group="springboot-auth-updated" />
+    </modules>
+  </component>
+</project>
