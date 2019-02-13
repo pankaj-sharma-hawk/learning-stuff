@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/design/parking/parkinginterface/ParkingServiceInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/design/parking/parkinginterface/ParkingServiceInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/MaximumSumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,14 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NextGreaterElement.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/array/NextGreaterElement.java">
+      <file leaf-file-name="MaximumSumSubArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/array/MaximumSumSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="122">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -111,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/main/java/hackerearth/AmanMrSharma.java" />
         <option value="$PROJECT_DIR$/src/main/java/design/parking/parkinginterface/ParkingServiceInt.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/NextGreaterElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/array/MaximumSumSubArray.java" />
       </list>
     </option>
   </component>
@@ -205,33 +204,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selfAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selfAssignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selfAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selfAssignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-              <item name="parkinginterface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selfAssignment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selfAssignment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="flipkart" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -269,18 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NextGreaterElement">
-    <configuration name="AliHelpingInnocentPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerearth.AliHelpingInnocentPeople" />
-      <module name="selfAssignment" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerearth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.MaximumSumSubArray">
     <configuration name="AmanMrSharma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerearth.AmanMrSharma" />
       <module name="selfAssignment" />
@@ -310,6 +271,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hackerearth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MaximumSumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MaximumSumSubArray" />
+      <module name="selfAssignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,19 +339,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AliHelpingInnocentPeople" />
       <item itemvalue="Application.Duration" />
       <item itemvalue="Application.BookPotionMaking" />
       <item itemvalue="Application.AmanMrSharma" />
       <item itemvalue="Application.NextGreaterElement" />
+      <item itemvalue="Application.MaximumSumSubArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumSumSubArray" />
         <item itemvalue="Application.NextGreaterElement" />
         <item itemvalue="Application.AmanMrSharma" />
         <item itemvalue="Application.BookPotionMaking" />
         <item itemvalue="Application.Duration" />
-        <item itemvalue="Application.AliHelpingInnocentPeople" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +405,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99925000" />
+    <option name="totallyTimeSpent" value="101437000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,11 +431,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32649574" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32649574" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32879046" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.36552274" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36552274" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -623,16 +595,16 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/array/NextGreaterElement.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/main/java/array/MaximumSumSubArray.java</url>
+          <line>25</line>
           <properties />
-          <option name="timeStamp" value="45" />
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="46" />
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -704,7 +676,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/udemy/designpattern/Filter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/udemy/designpattern/interfacepackage/FilterClass.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/udemy/designpattern/ProductBetterFilter.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/udemy/designpattern/interfacepackage/Specification.java">
@@ -1034,6 +1005,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/MaximumSumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
