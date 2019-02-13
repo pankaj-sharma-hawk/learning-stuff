@@ -1,6 +1,6 @@
-package design.parking;
+package design.parking.parkinginterface;
 
-import design.parking.model.ParkingSlot;
+import design.ParkingSlot;
 
 /**
  * Created by pankaj on 02,2019
