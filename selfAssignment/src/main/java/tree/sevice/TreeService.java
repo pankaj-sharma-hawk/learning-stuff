@@ -25,4 +25,12 @@ public class TreeService {
     public void printTopView(Node root){
         System.out.println(tree.printTopView(root));
     }
+
+    public void printBottomView(Node root){
+        tree.printBottomView(root);
+    }
+
+    public void print(Node root){
+        tree.print(root);
+    }
 }

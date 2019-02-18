@@ -1,5 +1,8 @@
 package tree.model;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
 import java.util.*;
 
 /**
@@ -85,5 +88,33 @@ public class Tree {
         }
         return list;
     }
+
+    public void printBottomView(Node root){
+        Map<Integer,Node> map = new HashMap();
+        Queue<TreeNode> queue = new ArrayDeque();
+        queue.add(new TreeNode(0,root));
+        while (!queue.isEmpty()){
+            TreeNode temp = queue.poll();
+            Node tempNode=temp.getNode();
+            int distance=temp.getDistance();
+            map.put(distance,tempNode);
+            if(tempNode.left!=null){
+                queue.add(new TreeNode(distance-1,tempNode.left));
+            }
+            if(tempNode.right!=null){
+                queue.add(new TreeNode(distance+1,tempNode.right));
+            }
+        }
+        for(Map.Entry<Integer,Node> entry:map.entrySet()){
+            System.out.print(entry.getValue().getData()+" ");
+        }
+    }
+
+}
+@Data
+@AllArgsConstructor
+class TreeNode{
+    private int distance;
+    private Node node;
 
 }
