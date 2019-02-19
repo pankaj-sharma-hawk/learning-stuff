@@ -46,7 +46,8 @@ public class RatMazeProblem {
     }
 
     public boolean getRatMazePathFourDirection(int maze[][],int starti,int startj){
-        if(starti==size && startj==size){
+        if((starti+1)==size && (startj+1)==size){
+            arr[starti][startj]=1;
             return true;
         }else if(starti<0 || starti>size || startj<0 || startj>size){
             return false;
