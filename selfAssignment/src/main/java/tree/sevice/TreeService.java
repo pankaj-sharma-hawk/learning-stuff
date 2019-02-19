@@ -1,5 +1,6 @@
 package tree.sevice;
 
+import tree.model.LevelNode;
 import tree.model.Node;
 import tree.model.Tree;
 
@@ -32,5 +33,18 @@ public class TreeService {
 
     public void print(Node root){
         tree.print(root);
+    }
+
+    public void printLevelNode(LevelNode root){
+        tree.printLevelNode(root);
+    }
+
+    public void connectSameLevelNode(LevelNode root){
+        tree.connectSameLevelNode(root);
+    }
+
+    public LevelNode createLevelNode(int arr[]){
+        LevelNode levelNode=tree.createLevelNode(new LevelNode(),arr,0);
+        return levelNode;
     }
 }

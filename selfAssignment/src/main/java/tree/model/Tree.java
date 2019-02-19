@@ -15,8 +15,17 @@ public class Tree {
             return null;
         }
         root=new Node(arr[index]);
-        root.left=createNode(root.left,arr,index*2+1);
+        root.left=  createNode(root.left,arr,index*2+1);
         root.right=createNode(root.right,arr,index*2+2);
+        return root;
+    }
+    public LevelNode createLevelNode(LevelNode root,int arr[],int index){
+        if(index>=arr.length || arr[index]==-1){
+            return null;
+        }
+        root=new LevelNode(arr[index]);
+        root.left=createLevelNode(root.left,arr,index*2+1);
+        root.right=createLevelNode(root.right,arr,index*2+2);
         return root;
     }
 
@@ -110,6 +119,58 @@ public class Tree {
         }
     }
 
+    public void connectSameLevelNode(LevelNode root){
+       Queue<LevelNode> queue = new LinkedList();
+       Queue<LevelNode> queue1=new LinkedList();
+       queue.add(root);
+       queue.add(null);
+
+       queue1.add(root);
+       queue1.add(null);
+
+       while (!queue.isEmpty()){
+           LevelNode temp=queue.poll();
+           if(temp==null){
+               if(queue.isEmpty())
+                   break;
+               queue1.add(null);
+               queue.add(null);
+           }else{
+                if(temp.left!=null){
+                    queue.add(temp.left);
+                    queue1.add(temp.left);
+                }
+                if(temp.right!=null){
+                    queue.add(temp.right);
+                    queue1.add(temp.right);
+                }
+
+           }
+       }
+       System.out.println("Queue:--"+queue1.size());
+       LevelNode prev=null;
+       while (!queue1.isEmpty()){
+           LevelNode tempNode = queue1.poll();
+           if(tempNode==null)
+               prev=null;
+           else if(prev==null){
+               prev=tempNode;
+           }else{
+               prev.nextSibbling=tempNode;
+               prev=tempNode;
+           }
+       }
+
+    }
+
+
+    public void printLevelNode(LevelNode root) {
+        if(root==null)
+            return;
+        System.out.println(root.getData());;
+        printLevelNode(root.left);
+        printLevelNode(root.right);
+    }
 }
 @Data
 @AllArgsConstructor
