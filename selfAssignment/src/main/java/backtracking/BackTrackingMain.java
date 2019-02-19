@@ -13,5 +13,10 @@ public class BackTrackingMain {
         RatMazeProblem ratMazeProblem = new RatMazeProblem(size);
         ratMazeProblem.getRatMazePath(maze,0,0);
         ratMazeProblem.printMazePath();
+
+        ratMazeProblem.getRatMazePathFourDirection(maze,0,0);
+        ratMazeProblem.printMazePath();
+
+
     }
 }

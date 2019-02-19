@@ -45,6 +45,26 @@ public class RatMazeProblem {
        return result;
     }
 
+    public boolean getRatMazePathFourDirection(int maze[][],int starti,int startj){
+        if(starti==size && startj==size){
+            return true;
+        }else if(starti<0 || starti>size || startj<0 || startj>size){
+            return false;
+        }else if(maze[starti][startj]==0 || arr[starti][startj]==1){
+            return false;
+        }else{
+            arr[starti][startj]=1;
+            boolean result=getRatMazePathFourDirection(maze,starti,startj+1)||
+                    getRatMazePathFourDirection(maze,starti,startj-1)||
+                    getRatMazePathFourDirection(maze,starti+1,startj)||
+                    getRatMazePathFourDirection(maze,starti-1,startj);
+                if(!result){
+                    arr[starti][startj]=0;
+                }
+                return result;
+        }
+    }
+
     public void printMazePath(){
         for(int i=0;i<size;i++){
             for(int j=0;j<size;j++){
