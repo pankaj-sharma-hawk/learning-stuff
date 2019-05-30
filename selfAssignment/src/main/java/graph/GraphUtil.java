@@ -14,6 +14,7 @@ public class GraphUtil {
 
   boolean visitedVertex[];
 
+
   public GraphUtil(int numberOfVertex) {
     this.visitedVertex = new boolean[numberOfVertex];
   }
@@ -68,5 +69,6 @@ public class GraphUtil {
   public void resetVisitedVertex() {
     Arrays.fill(visitedVertex, false);
   }
+
 
 }

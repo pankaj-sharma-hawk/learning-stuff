@@ -11,6 +11,10 @@ public class Graph {
   private int numberOfVertex;
   private List<Integer> adjencyList[];
 
+  public Graph(List<Integer>[] adjencyList,int numberOfVertex){
+    this.adjencyList=adjencyList;
+    this.numberOfVertex=numberOfVertex;
+  }
   public Graph(int numberOfVertex) {
     this.numberOfVertex = numberOfVertex;
     adjencyList=new ArrayList[numberOfVertex];
