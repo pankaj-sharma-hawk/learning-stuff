@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/TransitiveClosure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/GraphUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/GraphUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/MotherVertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/MotherVertex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/graph/NetworkStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/NetworkStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graph/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/graph/GraphUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graph/GraphUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/graph/MotherVertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graph/MotherVertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/graph/NetworkStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graph/NetworkStart.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,52 +21,24 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NetworkStart.java" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name="TransitiveClosure.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/graph/TransitiveClosure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NetworkStart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/graph/NetworkStart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MotherVertex.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/graph/MotherVertex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#checkGraphHasAnyVisitedVertex#0;class#MotherVertex#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GraphUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/graph/GraphUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#graphBFS#0;class#GraphUtil#0" />
-                <element signature="method#dfs#0;class#GraphUtil#0" />
-                <element signature="method#checkAllVertexVisited#0;class#GraphUtil#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/graph/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -107,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/array/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/QuickSelect.java" />
         <option value="$PROJECT_DIR$/src/main/java/tree/model/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/SubSetSumArray.java" />
@@ -158,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/main/java/graph/GraphUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/graph/MotherVertex.java" />
         <option value="$PROJECT_DIR$/src/main/java/graph/NetworkStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/graph/TransitiveClosure.java" />
       </list>
     </option>
   </component>
@@ -189,10 +155,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="640" />
-    <option name="height" value="741" />
+    <option name="x" value="716" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -211,7 +177,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,6 +215,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -466,12 +432,14 @@
       <workItem from="1558623003564" duration="1941000" />
       <workItem from="1558693630409" duration="9794000" />
       <workItem from="1558959247482" duration="5826000" />
-      <workItem from="1559141584079" duration="6108000" />
+      <workItem from="1559141584079" duration="7413000" />
+      <workItem from="1559213494541" duration="595000" />
+      <workItem from="1559266936549" duration="1932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262205000" />
+    <option name="totallyTimeSpent" value="266037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,18 +464,18 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7910714" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7050611" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7897436" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7042735" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42218542" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35035914" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.44273505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44273505" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="112" height="273" id="Documentation" order="10" side_tool="true" weight="0.6357616" />
@@ -907,13 +875,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/QuickSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/array/AllPossibleSubset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1245,9 +1206,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1266,8 +1224,8 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/graph/MotherVertex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        <state relative-caret-position="23">
+          <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#checkGraphHasAnyVisitedVertex#0;class#MotherVertex#0" />
@@ -1277,8 +1235,18 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/graph/NetworkStart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+        <state relative-caret-position="255">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/graph/TransitiveClosure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
