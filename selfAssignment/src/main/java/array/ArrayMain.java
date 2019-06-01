@@ -9,7 +9,9 @@ public class ArrayMain {
 
   public static void main(String[] args) {
     Rotation rotation = new Rotation();
-    int arr[] = {1, 2, 3, 4, 5, 6, 7,8,9};
-    System.out.println(Arrays.toString(rotation.rotateMethod3(arr, 3, arr.length)));
+    CyclicalRotate cyclicalRotate = new CyclicalRotate();
+    int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+//    System.out.println(Arrays.toString(rotation.rotateMethod3(arr, 3, arr.length)));
+    System.out.println(Arrays.toString(cyclicalRotate.cyclicRotationsMethod1(arr, 2)));
   }
 }
