@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Queue;
+import java.util.Stack;
 
 /**
  * Created by pankaj on 05,2019
@@ -70,5 +71,32 @@ public class GraphUtil {
     Arrays.fill(visitedVertex, false);
   }
 
+  public void iterateDFSGraph(Graph graph, int startIndex) {
+    Stack<Integer> stack = new Stack();
 
+    stack.push(startIndex);
+    while (!stack.isEmpty()) {
+      Integer vertex = stack.pop();
+      if (!visitedVertex[vertex]) {
+        System.out.print(vertex + " ");
+        visitedVertex[vertex] = true;
+      }
+      List<Integer> list = graph.getAdjencyList()[vertex];
+      if (list != null) {
+        for (Integer nextVertex : list) {
+          if (!visitedVertex[nextVertex]) {
+            stack.push(nextVertex);
+          }
+        }
+      }
+    }
+  }
+
+  public void iterateDFSEveryVertex(Graph graph) {
+    for (int i = 0; i < graph.getNumberOfVertex(); i++) {
+      if (!visitedVertex[i]) {
+        iterateDFSGraph(graph, i);
+      }
+    }
+  }
 }
