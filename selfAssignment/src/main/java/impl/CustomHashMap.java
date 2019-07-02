@@ -47,7 +47,9 @@ public class CustomHashMap<K, V> {
   public V get(K key) {
     int hash = hash(key);
     CustomEntry<K, V> currentNode = table[hash];
-    if (currentNode.key.equals(key)) {
+    if (currentNode == null) {
+      return null;
+    } else if (key == null || key.equals(currentNode.key)) {
       return currentNode.value;
     } else {
       while (currentNode != null) {
@@ -67,15 +69,15 @@ public class CustomHashMap<K, V> {
   }
 
   public int hash(K key) {
-    return Math.abs(key.hashCode()) % capacity;
+    return key == null ? 0 : Math.abs(key.hashCode()) % capacity;
   }
 
-  public V putForNull(V value) {
-    table[0]=getEntryNode(null,value);
+  private V putForNull(V value) {
+    table[0] = getEntryNode(null, value);
     return value;
   }
 
-  static class CustomEntry<K, V> {
+  private static class CustomEntry<K, V> {
 
     final K key;
     V value;

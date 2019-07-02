@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/SearchElementRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/impl/CustomeLinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lamda/LamdaTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ReaderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadAC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadSleep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/Tracking" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/Tracking" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/ArrayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/ArrayMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/impl/CustomMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/impl/CustomMainClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,71 +27,26 @@
       <file leaf-file-name="CustomHashMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+            <state relative-caret-position="1085">
+              <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
               <folding>
                 <element signature="e#197#198#0" expanded="true" />
                 <element signature="e#240#241#0" expanded="true" />
-                <element signature="method#get#0;class#CustomHashMap#0" />
                 <element signature="e#478#479#0" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#1705#1706#0" expanded="true" />
+                <element signature="e#1769#1770#0" expanded="true" />
+                <element signature="class#CustomEntry#0;class#CustomHashMap#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructListFromArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java">
+      <file leaf-file-name="CustomMainClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomMainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="639" column="47" lean-forward="true" selection-start-line="639" selection-start-column="47" selection-end-line="639" selection-end-column="47" />
-              <folding>
-                <element signature="e#19327#19328#0" expanded="true" />
-                <element signature="e#19410#19411#0" expanded="true" />
-                <element signature="e#24331#24332#0" expanded="true" />
-                <element signature="e#24396#24397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpiringCache.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/ExpiringCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnixFileSystem.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/UnixFileSystem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="189" selection-start-line="189" selection-end-line="189" />
+            <state relative-caret-position="130">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -140,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/array/ShortestDistanceFromTwoCell.java" />
         <option value="$PROJECT_DIR$/src/main/java/backtracking/RatMazeProblem.java" />
         <option value="$PROJECT_DIR$/src/main/java/backtracking/BackTrackingMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/linklist/CloneLinkedListRandomPointer.java" />
@@ -190,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/thread/ReaderMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/impl/CustomeLinkedHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/impl/CustomMainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java" />
       </list>
     </option>
@@ -271,6 +212,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selfAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selfAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="rahul" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -310,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructListFromArray">
+  <component name="RunManager" selected="Application.CustomMainClass">
     <configuration name="ConstructListFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rahul.ConstructListFromArray" />
       <module name="selfAssignment" />
@@ -322,13 +271,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LamdaTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lamda.LamdaTraining" />
+    <configuration name="CustomMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="impl.CustomMainClass" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lamda.*" />
+          <option name="PATTERN" value="impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,19 +357,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LamdaTraining" />
       <item itemvalue="Application.ThreadA" />
       <item itemvalue="Application.ThreadAB" />
       <item itemvalue="Application.ReaderMain" />
       <item itemvalue="Application.ConstructListFromArray" />
+      <item itemvalue="Application.CustomMainClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomMainClass" />
         <item itemvalue="Application.ConstructListFromArray" />
         <item itemvalue="Application.ReaderMain" />
         <item itemvalue="Application.ThreadAB" />
         <item itemvalue="Application.ThreadA" />
-        <item itemvalue="Application.LamdaTraining" />
       </list>
     </recent_temporary>
   </component>
@@ -518,12 +467,12 @@
       <workItem from="1561542156265" duration="31000" />
       <workItem from="1561804065676" duration="2685000" />
       <workItem from="1561947403995" duration="1916000" />
-      <workItem from="1561991601251" duration="12028000" />
+      <workItem from="1561991601251" duration="12454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334451000" />
+    <option name="totallyTimeSpent" value="334877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -549,11 +498,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3965812" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.83418804" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39642859" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.8339286" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3216281" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32119206" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -1001,13 +950,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/LogestCommonSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/old/array/SubSetSumArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1365,18 +1307,25 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomMainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        <state relative-caret-position="1085">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
           <folding>
             <element signature="e#197#198#0" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
-            <element signature="method#get#0;class#CustomHashMap#0" />
             <element signature="e#478#479#0" expanded="true" />
             <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+            <element signature="e#1769#1770#0" expanded="true" />
+            <element signature="class#CustomEntry#0;class#CustomHashMap#0" />
           </folding>
         </state>
       </provider>
