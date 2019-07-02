@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java" line="512" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/CountNodeGivenLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/SearchElementRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/impl/CustomeLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lamda/LamdaTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sample/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ReaderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadAC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadSleep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/NetworkStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/NetworkStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/graph/Tracking" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/graph/Tracking" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/Tracking" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/Tracking" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/ArrayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/ArrayMain.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +38,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountNodeGivenLevel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/graph/CountNodeGivenLevel.java">
+      <file leaf-file-name="CustomHashMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="202">
+              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="method#get#0;class#CustomHashMap#0" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructListFromArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,20 +68,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tracking" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/graph/Tracking">
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+            <state relative-caret-position="329">
+              <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NetworkStart.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/graph/NetworkStart.java">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="176">
+              <caret line="639" column="47" lean-forward="true" selection-start-line="639" selection-start-column="47" selection-end-line="639" selection-end-column="47" />
+              <folding>
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+                <element signature="e#24331#24332#0" expanded="true" />
+                <element signature="e#24396#24397#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpiringCache.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/ExpiringCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnixFileSystem.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/UnixFileSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="189" selection-start-line="189" selection-end-line="189" />
             </state>
           </provider>
         </entry>
@@ -83,21 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/tree/sevice/BinarySearchService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/model/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/sevice/TreeUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/BinarySearchMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/backtracking/model/Maze.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hackerearth/Ladderophilia.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hackerearth/SevenSegment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/NoRepeatingString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/NoRepeatingCharacterInString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/geeksgeek/flipkart/Boggle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/geeksgeek/Boggle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/model/LevelNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/sevice/TreeService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/TreeMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tree/model/Tree.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/ShortestDistanceFromTwoCell.java" />
         <option value="$PROJECT_DIR$/src/main/java/backtracking/RatMazeProblem.java" />
         <option value="$PROJECT_DIR$/src/main/java/backtracking/BackTrackingMain.java" />
@@ -126,14 +168,29 @@
         <option value="$PROJECT_DIR$/src/main/java/graph/TransitiveClosure.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/Rotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/BlockSwap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/CyclicalRotate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/array/Tracking" />
         <option value="$PROJECT_DIR$/src/main/java/thread/OddEvenThreadSample.java" />
         <option value="$PROJECT_DIR$/src/main/java/graph/GraphUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/graph/NetworkStart.java" />
         <option value="$PROJECT_DIR$/src/main/java/graph/CountNodeGivenLevel.java" />
         <option value="$PROJECT_DIR$/src/main/java/graph/Tracking" />
+        <option value="$PROJECT_DIR$/src/main/java/array/ArrayUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/array/ArrayMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/array/Tracking" />
+        <option value="$PROJECT_DIR$/src/main/java/array/SearchElementRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/array/FirstClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/backtracking/SecondClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/ThreadSleep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/Inheritance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lamda/LamdaTraining.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/ThreadAC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/ThreadAB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/Reader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/thread/ReaderMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/impl/CustomeLinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java" />
       </list>
     </option>
   </component>
@@ -142,6 +199,11 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -164,8 +226,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="716" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="650" />
     <option name="height" value="743" />
@@ -177,6 +239,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,18 +271,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="selfAssignment" type="58d84e3e:PackageViewProjectNode" />
-              <item name="selfAssignment" type="616d4139:PackageViewModuleNode" />
+              <item name="rahul" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,7 +281,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Rat&#9;FILE&#9;file:///home/pankaj/Documents/project/selfAssignment/src/main/java/backtracking/RatMazeProblem.java" />
+    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;FILE&#9;jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java&#10;Rat&#9;FILE&#9;file:///home/pankaj/Documents/project/selfAssignment/src/main/java/backtracking/RatMazeProblem.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
@@ -239,7 +291,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -258,53 +310,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NetworkStart">
-    <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayMain" />
+  <component name="RunManager" selected="Application.ConstructListFromArray">
+    <configuration name="ConstructListFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rahul.ConstructListFromArray" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="rahul.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EmployeeSortImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="room.EmployeeSortImpl" />
+    <configuration name="LamdaTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lamda.LamdaTraining" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="room.*" />
+          <option name="PATTERN" value="lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerearth.GFG" />
+    <configuration name="ReaderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ReaderMain" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerearth.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NetworkStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.NetworkStart" />
+    <configuration name="ThreadA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadA" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OddEvenThreadSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.OddEvenThreadSample" />
+    <configuration name="ThreadAB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadAB" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -356,19 +408,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.GFG" />
-      <item itemvalue="Application.EmployeeSortImpl" />
-      <item itemvalue="Application.NetworkStart" />
-      <item itemvalue="Application.ArrayMain" />
-      <item itemvalue="Application.OddEvenThreadSample" />
+      <item itemvalue="Application.LamdaTraining" />
+      <item itemvalue="Application.ThreadA" />
+      <item itemvalue="Application.ThreadAB" />
+      <item itemvalue="Application.ReaderMain" />
+      <item itemvalue="Application.ConstructListFromArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NetworkStart" />
-        <item itemvalue="Application.OddEvenThreadSample" />
-        <item itemvalue="Application.ArrayMain" />
-        <item itemvalue="Application.EmployeeSortImpl" />
-        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.ConstructListFromArray" />
+        <item itemvalue="Application.ReaderMain" />
+        <item itemvalue="Application.ThreadAB" />
+        <item itemvalue="Application.ThreadA" />
+        <item itemvalue="Application.LamdaTraining" />
       </list>
     </recent_temporary>
   </component>
@@ -450,12 +502,28 @@
       <workItem from="1559378339236" duration="9243000" />
       <workItem from="1559576879090" duration="642000" />
       <workItem from="1559665583925" duration="3898000" />
-      <workItem from="1559713936058" duration="1981000" />
+      <workItem from="1559713936058" duration="10181000" />
+      <workItem from="1560345835599" duration="622000" />
+      <workItem from="1560407683896" duration="564000" />
+      <workItem from="1560595194849" duration="2646000" />
+      <workItem from="1560684097823" duration="3946000" />
+      <workItem from="1560839732960" duration="2654000" />
+      <workItem from="1561037739463" duration="5133000" />
+      <workItem from="1561089361639" duration="629000" />
+      <workItem from="1561129906082" duration="4588000" />
+      <workItem from="1561279077887" duration="1676000" />
+      <workItem from="1561440998289" duration="591000" />
+      <workItem from="1561454753800" duration="613000" />
+      <workItem from="1561480020543" duration="1029000" />
+      <workItem from="1561542156265" duration="31000" />
+      <workItem from="1561804065676" duration="2685000" />
+      <workItem from="1561947403995" duration="1916000" />
+      <workItem from="1561991601251" duration="12028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284900000" />
+    <option name="totallyTimeSpent" value="334451000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,32 +535,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="650" height="743" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32649574" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32478634" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32879046" />
-      <window_info anchor="right" x="0" y="0" width="274" height="543" id="Documentation" order="10" side_tool="true" weight="0.632083" />
+      <window_info anchor="right" x="0" y="0" width="274" height="543" id="Documentation" order="10" side_tool="true" weight="0.63048685" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46153846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3965812" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.83418804" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34477255" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3216281" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44273505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.62222224" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -782,17 +850,40 @@
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/graph/CountNodeGivenLevel.java</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/src/main/java/array/SearchElementRotatedArray.java</url>
+          <line>28</line>
           <properties />
-          <option name="timeStamp" value="134" />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/array/SearchElementRotatedArray.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java</url>
+          <line>611</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="144" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="135" />
+      <option name="time" value="146" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="map" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -810,6 +901,11 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
       </expression>
     </expressions>
     <expressions id="watch">
+      <expression>
+        <expression-string>map</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>leftSum</expression-string>
         <language-id>JAVA</language-id>
@@ -850,209 +946,61 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>((HashMap) map).</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).table.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).table</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).loadFactor()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).size</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).capacity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) map).loadFactor</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>map</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>list</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>graph.getAdjencyList()[vertex]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stack.pop()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stack</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stack.peek()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>graph.getAdjencyList()[2]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>graph.getAdjencyList()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>arr[starti][startj]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>i&gt;=0 &amp;&amp; (i+1)&lt;size &amp;&amp; path[i+1][j]!='0' &amp;&amp; !visited[i][j]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>word[wordIndex]!=boggle[rowIndex][colIndex]</expression-string>
+        <expression-string>list.contains('A'+i)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/model/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/backtracking/model/Maze.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/sevice/TreeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/BinarySearchMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerearth/Ladderophilia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerearth/SevenSegment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/NoRepeatingCharacterInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/geeksgeek/Boggle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linklist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linklist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/TreeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/model/LevelNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/model/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="158" column="42" lean-forward="true" selection-start-line="158" selection-start-column="42" selection-end-line="158" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tree/sevice/TreeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/old/array/ShortestDistanceFromTwoCell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/backtracking/BackTrackingMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/backtracking/RatMazeProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linklist/CloneLinkedListRandomPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/RemoveReplaceCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dp/LogestCommonSubString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1217,24 +1165,10 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/Tracking">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/array/CyclicalRotate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/ArrayMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="83" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
         </state>
       </provider>
     </entry>
@@ -1270,20 +1204,180 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/graph/Tracking">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/graph/CountNodeGivenLevel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/ArrayUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/ArrayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/Tracking">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="78" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/SearchElementRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/backtracking/SecondClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/array/FirstClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ThreadSleep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/Inheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lamda/LamdaTraining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ThreadAB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ThreadAC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/thread/ReaderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomeLinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/graph/Tracking">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+        <state relative-caret-position="63">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/ExpiringCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/UnixFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="639" column="47" lean-forward="true" selection-start-line="639" selection-start-column="47" selection-end-line="639" selection-end-column="47" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rahul/ConstructListFromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="method#get#0;class#CustomHashMap#0" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
