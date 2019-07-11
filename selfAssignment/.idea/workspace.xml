@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="FindPairNumber.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="146">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -463,12 +462,12 @@
       <workItem from="1562075118780" duration="6304000" />
       <workItem from="1562133466469" duration="8000" />
       <workItem from="1562685645429" duration="604000" />
-      <workItem from="1562776585104" duration="4926000" />
+      <workItem from="1562776585104" duration="5145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="346844000" />
+    <option name="totallyTimeSpent" value="347063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,7 +492,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3948718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3948718" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.83247864" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
@@ -504,7 +503,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.6598291" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6598291" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="274" height="543" id="Documentation" order="10" side_tool="true" weight="0.63048685" />
@@ -829,12 +828,6 @@
           <line>23</line>
           <properties />
           <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1335,8 +1328,8 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="146">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
