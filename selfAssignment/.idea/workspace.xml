@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksgeek/PalindromeDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PalindromeDP.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/geeksgeek/PalindromeDP.java">
+      <file leaf-file-name="FindPairNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="65">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="495" selection-start-line="495" selection-end-line="495" />
+              <folding>
+                <element signature="e#5525#6177#0" />
+                <element signature="e#6283#6284#0" expanded="true" />
+                <element signature="e#6351#6352#0" expanded="true" />
+                <element signature="e#10361#10362#0" expanded="true" />
+                <element signature="e#10388#10389#0" expanded="true" />
+                <element signature="e#51840#51841#0" expanded="true" />
+                <element signature="e#51898#51899#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/backtracking/BackTrackingMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/linklist/CloneLinkedListRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/main/java/string/RemoveReplaceCharacter.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/SubarraySum.java" />
@@ -114,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/main/java/impl/CustomeLinkedHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/impl/CustomMainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/geeksgeek/PalindromeDP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java" />
       </list>
     </option>
   </component>
@@ -192,7 +210,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="geeksgeek" type="462c0819:PsiDirectoryNode" />
+              <item name="rahul" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeDP">
+  <component name="RunManager" selected="Application.FindPairNumber">
     <configuration name="ConstructListFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rahul.ConstructListFromArray" />
       <module name="selfAssignment" />
@@ -256,6 +274,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="FindPairNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rahul.FindPairNumber" />
+      <module name="selfAssignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rahul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="PalindromeDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="geeksgeek.PalindromeDP" />
       <module name="selfAssignment" />
@@ -269,17 +298,6 @@
     </configuration>
     <configuration name="ReaderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.ReaderMain" />
-      <module name="selfAssignment" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ThreadAB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ThreadAB" />
       <module name="selfAssignment" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -331,19 +349,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadAB" />
       <item itemvalue="Application.ReaderMain" />
       <item itemvalue="Application.ConstructListFromArray" />
       <item itemvalue="Application.CustomMainClass" />
       <item itemvalue="Application.PalindromeDP" />
+      <item itemvalue="Application.FindPairNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindPairNumber" />
         <item itemvalue="Application.PalindromeDP" />
         <item itemvalue="Application.CustomMainClass" />
         <item itemvalue="Application.ConstructListFromArray" />
         <item itemvalue="Application.ReaderMain" />
-        <item itemvalue="Application.ThreadAB" />
       </list>
     </recent_temporary>
   </component>
@@ -445,12 +463,12 @@
       <workItem from="1562075118780" duration="6304000" />
       <workItem from="1562133466469" duration="8000" />
       <workItem from="1562685645429" duration="604000" />
-      <workItem from="1562776585104" duration="2928000" />
+      <workItem from="1562776585104" duration="4926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="344846000" />
+    <option name="totallyTimeSpent" value="346844000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,7 +493,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3948718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3948718" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.83247864" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
@@ -486,7 +504,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6598291" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.6598291" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="274" height="543" id="Documentation" order="10" side_tool="true" weight="0.63048685" />
@@ -807,22 +825,22 @@
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java</url>
-          <line>495</line>
-          <properties />
-          <option name="timeStamp" value="165" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksgeek/PalindromeDP.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="168" />
+      <option name="time" value="170" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -941,13 +959,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/old/array/Kadanes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/old/array/MissingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1258,22 +1269,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="263" column="66" lean-forward="true" selection-start-line="263" selection-start-column="66" selection-end-line="263" selection-end-column="66" />
-          <folding>
-            <element signature="e#5525#6177#0" />
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-            <element signature="e#10361#10362#0" expanded="true" />
-            <element signature="e#10388#10389#0" expanded="true" />
-            <element signature="e#51840#51841#0" expanded="true" />
-            <element signature="e#51898#51899#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/impl/CustomHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1317,8 +1312,31 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/geeksgeek/PalindromeDP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="54">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
+          <folding>
+            <element signature="e#5525#6177#0" />
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#10361#10362#0" expanded="true" />
+            <element signature="e#10388#10389#0" expanded="true" />
+            <element signature="e#51840#51841#0" expanded="true" />
+            <element signature="e#51898#51899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rahul/FindPairNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
