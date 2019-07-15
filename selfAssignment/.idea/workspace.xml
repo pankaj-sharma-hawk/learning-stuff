@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ef475c-0543-42d8-943c-531dbd2bdc5f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/ReplaceGreatestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/HighestPowerOf2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReplaceGreatestElement.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/amazon/ReplaceGreatestElement.java">
+      <file leaf-file-name="HighestPowerOf2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/amazon/HighestPowerOf2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="136">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -62,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/array/MissingNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/SortArray_0_1_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/EquilibriumPoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/MaximumSumIncreasingSubsequence.java" />
@@ -113,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/main/java/rahul/MainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/amazon/CountNumberOfSetBit.java" />
         <option value="$PROJECT_DIR$/src/main/java/amazon/ReplaceGreatestElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/amazon/HighestPowerOf2.java" />
       </list>
     </option>
   </component>
@@ -148,11 +149,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="716" />
-    <option name="y" value="25" />
-    <option name="width" value="650" />
-    <option name="height" value="743" />
+    <option name="y" value="27" />
+    <option name="width" value="640" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,8 +161,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -248,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReplaceGreatestElement">
+  <component name="RunManager" selected="Application.HighestPowerOf2">
     <configuration name="CountNumberOfSetBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="amazon.CountNumberOfSetBit" />
       <module name="selfAssignment" />
@@ -271,6 +272,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="HighestPowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.HighestPowerOf2" />
+      <module name="selfAssignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rahul.MainClass" />
       <module name="selfAssignment" />
@@ -278,17 +290,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="rahul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PalindromeDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="geeksgeek.PalindromeDP" />
-      <module name="selfAssignment" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="geeksgeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,19 +347,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PalindromeDP" />
       <item itemvalue="Application.FindPairNumber" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.CountNumberOfSetBit" />
       <item itemvalue="Application.ReplaceGreatestElement" />
+      <item itemvalue="Application.HighestPowerOf2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestPowerOf2" />
         <item itemvalue="Application.ReplaceGreatestElement" />
         <item itemvalue="Application.CountNumberOfSetBit" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.FindPairNumber" />
-        <item itemvalue="Application.PalindromeDP" />
       </list>
     </recent_temporary>
   </component>
@@ -464,12 +465,13 @@
       <workItem from="1562841416338" duration="23000" />
       <workItem from="1562854341060" duration="5250000" />
       <workItem from="1562910244379" duration="40000" />
-      <workItem from="1563100587203" duration="1651000" />
+      <workItem from="1563100587203" duration="2618000" />
+      <workItem from="1563166495762" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354836000" />
+    <option name="totallyTimeSpent" value="355824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,12 +483,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="716" y="25" width="650" height="743" extended-state="4" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3232143" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -494,11 +495,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39464286" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39464286" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.83214283" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.6142384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6121309" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -506,6 +507,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42393163" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3232143" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="274" height="543" id="Documentation" order="10" side_tool="true" weight="0.63048685" />
@@ -954,13 +956,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hackerearth/NeghNewYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hackerearth/ConverterEuro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1301,9 +1296,6 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1318,17 +1310,20 @@ boolean result=(k&lt;arr.length) &amp;&amp; (tempNumber-arr[k]&gt;=0)</expressio
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/amazon/ReplaceGreatestElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="-5">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/amazon/HighestPowerOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
