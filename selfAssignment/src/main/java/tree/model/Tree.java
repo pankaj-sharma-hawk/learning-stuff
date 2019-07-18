@@ -2,6 +2,7 @@ package tree.model;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -189,6 +190,36 @@ public class Tree {
       return 0;
     }
     return Math.max(getHeight(root.left), getHeight(root.right)) + 1;
+  }
+
+  public List<List<Integer>> getEachLevelValues(Node root) {
+    Queue<Node> queue = new LinkedList<>();
+    queue.add(root);
+    queue.add(null);
+    List<List<Integer>> levelValues = new ArrayList<>();
+    levelValues.add(Arrays.asList(root.getData()));
+    List<Integer> values = new ArrayList<>();
+    while (!queue.isEmpty()) {
+      Node temp = queue.poll();
+      if (temp == null) {
+        if (queue.isEmpty()) {
+          break;
+        }
+        levelValues.add(values);
+        queue.add(null);
+        values = new ArrayList<>();
+      }else {
+        if (temp.right != null) {
+          queue.add(temp.right);
+          values.add(temp.right.getData());
+        }
+        if (temp.left != null) {
+          queue.add(temp.left);
+          values.add(temp.left.getData());
+        }
+      }
+    }
+    return levelValues;
   }
 }
 
